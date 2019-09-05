@@ -4,6 +4,7 @@ a{text-decoration:none}
 #tr1{text-align: center}
 .td1{width: 12.5%}
 .td1 a{color: white}
+.td1 a:hover{color: pink}
 .color-FF2B58 a{color: #FF2B58}
 .ac{text-align: center}
 .color-red{color: red}
